@@ -6,8 +6,12 @@ Para isso utilize a API do CoinDesk (https://www.coindesk.com/coindesk-api) para
 
 ## Requisitos
 
-- Use Typescript
-- Use redux (Está liberado também uso do @redux/toolkit)
+- Utilizar Hooks
+
+## Pontos extras
+
+- Se utilizar Typescript
+- Se gerenciar o state com MobX
 
 
 ## O que nós avaliaremos
@@ -15,7 +19,7 @@ Para isso utilize a API do CoinDesk (https://www.coindesk.com/coindesk-api) para
 - Boa estrutura de pasta e arquivos
 - Capacidade de componentizar a interface
 - Capacidade de escrever código coeso e legível
-- Capacidade de escrever typings de qualidade para Typescript
+- Capacidade de escrever typings de qualidade para Typescript (Se utilizado)
 - Compreensão dos princípios de reatividade no React
 
 ## Alguns extras:
